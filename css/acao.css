@@ -1,0 +1,45 @@
+:root {
+    --main-color: rgb(18, 18, 20);
+    --green-color: rgb(4, 211, 97);
+    --purple-color: #8257E6;
+    --white-color: #ffffff;
+    --orange-color: #fd951f;
+}
+
+/*Acao Page*/
+
+
+header video{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+header .textTitle{
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+
+header .textTitle p{    
+    position: relative;
+    font-size: 70px;
+    font-weight: bold;
+    color: var(--white-color) ;
+} 
+
+header .textTitle img{
+   margin-top: 90px;
+}

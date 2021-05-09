@@ -1,0 +1,21 @@
+Projeto 02: Desenvolver um site utilizando apenas HTML5/CSS para uma provedora de filmes ou séries, como a Netflix ou a Amazon Prime.
+
+Deve conter:
+
+a)Página inicial mostrando 03 filmes e 03 séries em destaque, dados da empresa, vantagens de ser assinante, 02 vídeos de qualquer filme ou série,
+ usar vídeos do Youtube. Sistema de navegação para as demais páginas.
+
+ 
+
+b)Página contendo 03 séries quaisquer.  Quando clicado em alguma série você deve ser direcionado para a página respectiva da série sendo que elas devem conter:
+ sinopse, elenco, imagens e pelo menos 01 vídeo do Youtube para cada série. Sistema de navegação para as demais páginas.
+
+c)Página contendo 03 filmes quaisquer.  Quando clicado em algum filme você deve ser direcionado para a página respectiva do filme sendo que elas devem conter:
+ sinopse, elenco, imagens e pelo menos 01 vídeo do Youtube para cada filme. Sistema de navegação para as demais páginas.
+
+d)Página contendo as categorias: humor, drama, suspense, ficção. Cada categoria deve ter 05 filmes contendo apenas: uma pequena imagem do filme,
+seu nome e o botão assistir.
+
+e)É interessante que cada página possua no seu topo algum banner para uma série ou filme.
+
+f)Formulário de contato.
