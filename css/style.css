@@ -114,6 +114,7 @@ header .descricao button:hover{
     width: 75%;
     margin-left: 12.5%;
     margin-top: 50px;
+    height: 100vh;
 }
 
 .content h1{
@@ -148,6 +149,25 @@ header .descricao button:hover{
     height: 200px;
     flex-direction: column;
     overflow: hidden;
+    
+}
+
+.content .act{
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
+    
+}
+
+.content .expose{
+    margin-top: 15px;
+    width: 100%;
+    visibility: hidden;
+}
+
+.content .active{
+    background-color: #8257E6;
+    visibility:visible
 }
 
 
