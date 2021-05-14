@@ -1,6 +1,4 @@
-
-function exposeSinopse() {
-    document.querySelector('.cards').classList.toggle("act")
-    document.querySelector('.expose').classList.toggle("active")
-
+document.querySelectorAll('.expose').addEventListener("click"), function () {
+    console.log("Teste");
+    
 }
